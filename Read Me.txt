@@ -1,0 +1,3 @@
+Le fichier Scrap BooktoScrap.ipynb a le code fait par Nicolas, et l'autre est le code fait par moi, Vladislav.
+Nous avons travaille en equipe.
+Les codes sont presque identiques.
